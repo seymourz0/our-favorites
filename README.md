@@ -1,2 +1,2 @@
 # our-favorites
-An homework assignment to explore git
+An homework assignment to explore gitpls
